@@ -1,4 +1,4 @@
-const input = [3, 8, 8, 7];
+const input = [5500, 250];
 
 let count = 0;
 function gets(){
